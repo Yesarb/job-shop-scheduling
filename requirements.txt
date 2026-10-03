@@ -1,0 +1,5 @@
+# Developed with Python 3.13
+pulp
+pandas
+matplotlib
+jupyterlab
